@@ -1,2 +1,2 @@
-> Server - Django based server 
+> Server - Django based server  
 > Django Rest Framework
